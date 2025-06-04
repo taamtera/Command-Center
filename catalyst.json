@@ -1,0 +1,13 @@
+{
+  "client": {
+    "source": "command-center",
+    "plugin": "zcatalyst-cli-plugin-react"
+  },
+  "functions": {
+    "targets": [
+      "command_center_function"
+    ],
+    "ignore": [],
+    "source": "functions"
+  }
+}

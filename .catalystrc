@@ -1,0 +1,38 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "7597000000545052",
+      "name": "CommandCenter",
+      "domain": {
+        "id": "10100221851",
+        "name": "commandcenter-758977357.development"
+      },
+      "timezone": "Asia/Bangkok",
+      "env": [
+        {
+          "idx": 1,
+          "id": "758977357",
+          "name": "Development",
+          "type": 3,
+          "env_status": "Active",
+          "project_details": {
+            "project_name": "CommandCenter",
+            "id": "7597000000545052",
+            "project_type": "Live"
+          },
+          "is_default": true,
+          "action_required": false
+        }
+      ]
+    }
+  ]
+}

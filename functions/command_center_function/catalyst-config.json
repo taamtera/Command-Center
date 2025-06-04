@@ -1,0 +1,14 @@
+{
+	"deployment": {
+		"name": "command_center_function",
+		"stack": "node20",
+		"type": "advancedio",
+		"env_variables": {}
+	},
+	"execution": {
+		"main": "index.js"
+	},
+	"project_id": "your_project_id",
+	"project_key": "your_project_key",
+	"project_domain": "your_project_domain"
+}
