@@ -1,5 +1,5 @@
 # Command Center
-
+![Command Center](image.png)
 Command Center is a web-based operational log viewer for applications and
 functions running in Zoho Catalyst. It gives development and operations teams a
 single place to browse execution logs, narrow them by project, app, or
